@@ -1,0 +1,57 @@
+com/ibm/security/appscan/altoromutual/model/Account.java
+ com.ibm.security.appscan.altoromutual.model.Account
+com/ibm/security/appscan/altoromutual/api/AdminAPI.java
+ com.ibm.security.appscan.altoromutual.api.AdminAPI
+com/ibm/security/appscan/altoromutual/servlet/AdminLoginServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.AdminLoginServlet
+com/ibm/security/appscan/altoromutual/servlet/RedirectServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.RedirectServlet
+com/ibm/security/appscan/altoromutual/listener/StartupListener.java
+ com.ibm.security.appscan.altoromutual.listener.StartupListener
+com/ibm/security/appscan/altoromutual/filter/AuthFilter.java
+ com.ibm.security.appscan.altoromutual.filter.AuthFilter
+com/ibm/security/appscan/altoromutual/servlet/AccountViewServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.AccountViewServlet
+com/ibm/security/appscan/altoromutual/api/TransferAPI.java
+ com.ibm.security.appscan.altoromutual.api.TransferAPI
+com/ibm/security/appscan/altoromutual/api/FeedbackAPI.java
+ com.ibm.security.appscan.altoromutual.api.FeedbackAPI
+com/ibm/security/appscan/altoromutual/model/User.java
+ com.ibm.security.appscan.altoromutual.model.User
+ com.ibm.security.appscan.altoromutual.model.User$Role
+com/ibm/security/appscan/altoromutual/filter/ApiAuthFilter.java
+ com.ibm.security.appscan.altoromutual.filter.ApiAuthFilter
+com/ibm/security/appscan/altoromutual/api/AltoroAPI.java
+ com.ibm.security.appscan.altoromutual.api.AltoroAPI
+com/ibm/security/appscan/altoromutual/model/Transaction.java
+ com.ibm.security.appscan.altoromutual.model.Transaction
+com/ibm/security/appscan/altoromutual/servlet/AdminServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.AdminServlet
+com/ibm/security/appscan/altoromutual/util/ServletUtil.java
+ com.ibm.security.appscan.altoromutual.util.ServletUtil
+com/ibm/security/appscan/altoromutual/api/LoginAPI.java
+ com.ibm.security.appscan.altoromutual.api.LoginAPI
+com/ibm/security/appscan/altoromutual/servlet/SurveyServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.SurveyServlet
+com/ibm/security/appscan/altoromutual/servlet/TransferServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.TransferServlet
+com/ibm/security/appscan/altoromutual/model/Feedback.java
+ com.ibm.security.appscan.altoromutual.model.Feedback
+com/ibm/security/appscan/altoromutual/api/LogoutAPI.java
+ com.ibm.security.appscan.altoromutual.api.LogoutAPI
+com/ibm/security/appscan/altoromutual/servlet/FeedbackServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.FeedbackServlet
+com/ibm/security/appscan/altoromutual/servlet/LoginServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.LoginServlet
+com/ibm/security/appscan/altoromutual/util/OperationsUtil.java
+ com.ibm.security.appscan.altoromutual.util.OperationsUtil
+com/ibm/security/appscan/altoromutual/filter/AdminFilter.java
+ com.ibm.security.appscan.altoromutual.filter.AdminFilter
+com/ibm/security/appscan/altoromutual/api/AccountAPI.java
+ com.ibm.security.appscan.altoromutual.api.AccountAPI
+com/ibm/security/appscan/altoromutual/util/DBUtil.java
+ com.ibm.security.appscan.altoromutual.util.DBUtil
+com/ibm/security/appscan/altoromutual/servlet/CCApplyServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.CCApplyServlet
+com/ibm/security/appscan/altoromutual/servlet/SubscribeServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.SubscribeServlet
