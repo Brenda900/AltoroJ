@@ -55,3 +55,10 @@ com/ibm/security/appscan/altoromutual/servlet/CCApplyServlet.java
  com.ibm.security.appscan.altoromutual.servlet.CCApplyServlet
 com/ibm/security/appscan/altoromutual/servlet/SubscribeServlet.java
  com.ibm.security.appscan.altoromutual.servlet.SubscribeServlet
+com/ibm/security/appscan/altoromutual/model/dollar.java
+ com.ibm.security.appscan.altoromutual.model.dollar
+ com.ibm.security.appscan.altoromutual.model.dollar$Bank
+ com.ibm.security.appscan.altoromutual.model.dollar$Expression
+ com.ibm.security.appscan.altoromutual.model.dollar$Money
+ com.ibm.security.appscan.altoromutual.model.dollar$Pair
+ com.ibm.security.appscan.altoromutual.model.dollar$Sum
